@@ -42,10 +42,3 @@ Alguns projetos atuais:
 <a href="https://instagram.com/lucas.bisinotto" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:lucasjosecostabisinotto@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/lucasjosecostabisinotto@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-
-## 📊 Estatísticas do GitHub
-
-<p>
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lucasbisinotto&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lucasbisinotto&layout=compact&theme=tokyonight"/>
-</p>
